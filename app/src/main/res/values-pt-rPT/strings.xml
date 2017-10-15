@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Custo da Viagem</string>
+    <string name="total_per_person">Total por pessoa:</string>
+    <string name="cur_symbol">€</string>
+    <string name="distance">Distância</string>
+    <string name="distance_unit">Km</string>
+    <string name="price">Preço</string>
+    <string name="price_unit">€/l</string>
+    <string name="consumption">Consumo</string>
+    <string name="consumption_unit">l/100</string>
+    <string name="people">Nº de Pessoas</string>
+    <string name="people_hint">dividir por…</string>
+    <string name="tolls">Portagens</string>
+    <string name="clear">Limpar</string>
+    <string name="calculate">Calcular</string>
+</resources>
