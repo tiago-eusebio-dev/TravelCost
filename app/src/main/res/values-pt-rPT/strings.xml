@@ -11,6 +11,8 @@
     <string name="people">Nº de Pessoas</string>
     <string name="people_hint">dividir por…</string>
     <string name="tolls">Portagens</string>
+    <string name="times">Nº de Vezes</string>
+    <string name="multiply_by">multiplicar por…</string>
     <string name="clear">Limpar</string>
     <string name="calculate">Calcular</string>
 </resources>

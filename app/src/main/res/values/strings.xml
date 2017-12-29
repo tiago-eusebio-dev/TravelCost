@@ -11,6 +11,8 @@
     <string name="people">Nr of People</string>
     <string name="people_hint">divide by…</string>
     <string name="tolls">Tolls</string>
+    <string name="times">Times</string>
+    <string name="multiply_by">multiply by…</string>
     <string name="clear">Clear</string>
     <string name="calculate">Calculate</string>
 </resources>
