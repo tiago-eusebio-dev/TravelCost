@@ -16,8 +16,8 @@ This simple but useful Android app lets you calculate your travel cost per perso
 
 
 ## Compatibility
-* [![minSDK](https://img.shields.io/badge/Android-4.0.3-red.svg)](https://source.android.com/setup/start/build-numbers)
-* [![targetSDK](https://img.shields.io/badge/Android-9-brightgreen.svg)](https://source.android.com/setup/start/build-numbers)
+* Android Min version: [![minSDK](https://img.shields.io/badge/Android-4.0.3-red.svg)](https://source.android.com/setup/start/build-numbers)
+* Android Target version: [![targetSDK](https://img.shields.io/badge/Android-9-brightgreen.svg)](https://source.android.com/setup/start/build-numbers)
 
 
 Copyright (C) 2017-2018 <a href="https://forum.xda-developers.com/member.php?u=6415870">tfae@xda</a> (tfaeusebio@gmail.com)
